@@ -1,0 +1,11 @@
+[
+  {"title": "Search", "icon": "ic_magnify", "notificationCount": 10, "clickAction": "Universal Search"},
+  {"title": "","icon": "ic_magnify", "notificationCount": 10, "clickAction": "Local Search"},
+  {"title": "","icon": "ic_television_box", "notificationCount": 10, "clickAction": "Watch TV"},
+  {"title": "HOME","icon": "", "notificationCount": 10, "clickAction": "HOME"},
+  {"title": "TV PROGRAMS","icon": "", "notificationCount": 10, "clickAction": "TV PROGRAMS"},
+  {"title": "APP GAMES","icon": "", "notificationCount": 10, "clickAction": "APP GAMES"},
+  {"title": "SPORTS","icon": "", "notificationCount": 10, "clickAction": "SPORTS"},
+  {"title": "KIDS","icon": "", "notificationCount": 10, "clickAction": "KIDS"},
+  {"title": "SETTINGS","icon": "", "notificationCount": 10, "clickAction": "SETTINGS"}
+]
